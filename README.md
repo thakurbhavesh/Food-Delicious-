@@ -2,4 +2,4 @@
 
 Password : 1234
 
-<a href="add.lovestoblog.com/Delicious/">Food</a>
+add.lovestoblog.com/Delicious/
